@@ -28,3 +28,10 @@ button {
 input {
   margin-top: 10px;
 }
+
+.message {
+  margin-top: 20px;
+  font-size: 2rem;
+  text-align: center;
+  color: blue;
+}
